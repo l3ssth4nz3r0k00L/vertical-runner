@@ -3,13 +3,13 @@
 waveshare 3.5" resistive touch lcd 480x320
 https://www.amazon.com/dp/B01N48NOXI
 
-bluetooth 3.0 rechargeable keyboard 
+bluetooth 3.0 rechargeable keyboard
 https://www.amazon.com/dp/B07XCP3THX
 
 brostrend dual band usb wireless adapter 
 https://www.amazon.com/dp/B01GC8XH0S
 
-custom 3d printed case → precision additive  
+custom 3d printed case → precision additive
 https://www.precision-additive.com/
 
 vilros 10,000mah portable power supply (raspberry pi)  
