@@ -2,7 +2,7 @@
 
 #### Official Waveshare Instructions
 Follow the Waveshare guide for the 3.5" Resistive Touch LCD here:  
- [Waveshare Wiki — 3.5" LCD](https://www.waveshare.com/wiki/3.5inch_RPi_LCD_(B)_Manual_Configuration))  
+ [Waveshare Wiki — 3.5" LCD-B](https://www.waveshare.com/wiki/3.5inch_RPi_LCD_(B)_Manual_Configuration))  
 *(make sure you’re matching your exact panel + driver version)*
 ---
 #### Vertical Runner Clarification
