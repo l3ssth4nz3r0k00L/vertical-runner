@@ -12,4 +12,5 @@ Hardware / STL files → [CC BY-NC 4.0](LICENSE-HARDWARE)
 ### Special Thanks
 
  [Precision Additive](https://www.precision-additive.com/) for collaborating on the custom 3D printed case.
+ 
 [Raspberry Pi Magazine — Issue #151](https://magpi.raspberrypi.com/issues/151) — for featuring the Vertical Runner build.
