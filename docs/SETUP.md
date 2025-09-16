@@ -1,4 +1,4 @@
-# **Display Setup — Vertical Runner**
+# **Display Setup — Vertical Runner
 
 ## Official Waveshare Instructions**
 Follow the Waveshare guide for your display here:  
