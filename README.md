@@ -9,6 +9,6 @@
 Software, scripts, and documentation → [MIT License](LICENSE)  
 Hardware / STL files → [CC BY-NC 4.0](LICENSE-HARDWARE)
 
-## 🙏 Special Thanks
+### 🙏 Special Thanks
 
  [Precision Additive](https://www.precision-additive.com/) for collaborating on the custom 3D printed case.
