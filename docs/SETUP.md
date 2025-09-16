@@ -1,12 +1,15 @@
 ### Display Setup — Vertical Runner
 
-### Official Waveshare Instructions
-Follow the Waveshare guide for your display here:  
-👉 [Waveshare Wiki](https://www.waveshare.com/wiki/3.5inch_RPi_LCD_(B)_Manual_Configuration)
+#### Official Waveshare Instructions
+Follow the Waveshare guide for the 3.5" Resistive Touch LCD here:  
+👉 [Waveshare Wiki — 3.5" LCD](https://www.waveshare.com/wiki/3.5inch_RPi_LCD_(B)_Manual_Configuration))  
+*(make sure you’re matching your exact panel + driver version)*
 
-### Vertical Runner Clarification
-The official instructions work, but I ran into one issue they didn’t explain clearly.  
-Add this extra step if your screen doesn’t rotate correctly after setup:
+---
+
+#### Vertical Runner Clarification
+After running through Waveshare’s setup script, the display may boot in the wrong orientation.  
+The missing step is to run this terminal command:
 
 ```bash
-# paste your one-liner fix here
+sudo ./LCD35B-show-V2 270
