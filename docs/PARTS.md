@@ -3,7 +3,7 @@
 <span style="color:green">🖥️ waveshare 3.5" resistive touch lcd 480x320</span>  
 https://www.amazon.com/dp/B01N48NOXI
 
-<span style="color:green">⌨️ bluetooth 3.0 rechargeable keyboard</span>  
++ ⌨️ bluetooth 3.0 rechargeable keyboard 
 https://www.amazon.com/dp/B07XCP3THX
 
 <span style="color:green">🌐 brostrend dual band usb wireless adapter</span>  
