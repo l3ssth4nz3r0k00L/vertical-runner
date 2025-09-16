@@ -1,4 +1,4 @@
-# parts list (vertical runner)
+# parts list (VERTICAL RUNNER)
 
 waveshare 3.5" resistive touch lcd 480x320
 https://www.amazon.com/dp/B01N48NOXI
