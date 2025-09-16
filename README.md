@@ -4,7 +4,7 @@
 
 [![Watch the Video](media/VERTICAL%20RUNNER_THUMBNAIL_V02.jpg)](https://youtu.be/4KMmvdXOdMg?si=A4kVkTU88de121oV)
 
-## 📜 License
+### 📜 License
 
 - Software, scripts, and documentation → [MIT License](LICENSE)  
 - Hardware / STL files → [CC BY-NC 4.0](LICENSE-HARDWARE)
