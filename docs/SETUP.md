@@ -1,6 +1,6 @@
-# Display Setup — Vertical Runner
+### Display Setup — Vertical Runner
 
-### Official Waveshare Instructions**
+### Official Waveshare Instructions
 Follow the Waveshare guide for your display here:  
 👉 [Waveshare Wiki](https://www.waveshare.com/wiki/3.5inch_RPi_LCD_(B)_Manual_Configuration)
 
